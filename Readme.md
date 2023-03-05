@@ -22,7 +22,7 @@ sbt "runMain io.scandal.Main"
 ```
 
 ```shell
-./sumulate.sh
+./simulate.sh
 ```
 
 Note on behaviour
